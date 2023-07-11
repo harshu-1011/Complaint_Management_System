@@ -2,7 +2,7 @@
 
 📝🔧💻
 
-![Complaint Management System](complaint.png)
+![Complaint Management System](https://codezent.com/images/gif/webdevelopment10.gif)
 
 The Complaint Management System is a PHP-based web application designed to streamline the process of submitting and tracking complaints about products. It provides users with the ability to submit complaints and view the resolved status of their complaints. The system utilizes HTML, CSS, JavaScript, PHP, MySQL, and AJAX technologies to create an interactive and efficient user experience. To run the application, you will need XAMPP as your local web server environment and VScode as the code editor.
 
